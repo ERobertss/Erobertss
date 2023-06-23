@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- [ ] My name is Emily
+- [ ] I am 23 years old :birthday:
+- [ ] I live in West London :world_map:
+- [ ] I am orginally from Ghana :ghana:
+- [ ] I work as an IT Business Analyst at a fiber optic company :computer:
+- [ ] I am intrested in learning to code and to advance my tech skills :books:
+- [ ] My current focus is learning Java so i can transition  into a more technical role :brain:
+- [ ] My hobbies are watching reality TV shows, Attending parties and bottomless brunches, Hanging out with friends, Going to 4DX cinema and art shows :tv: :partying_face: :cocktail: 🧑‍🤝‍🧑 🎥 :art:
+
 <!--
 **ERobertss/Erobertss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
